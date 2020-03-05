@@ -8,6 +8,6 @@ import javax.servlet.http.HttpServletResponse;
 public class HelloServlet extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException{
-		resp.getWriter().write("I have that disco fever.");
+		resp.getWriter().write("I'm an old man in an old land.");
 	}
 }
