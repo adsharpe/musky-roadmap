@@ -3,7 +3,7 @@
   <display-name>OldTrip</display-name>
   <servlet>
   	<servlet-name>hello</servlet-name>
-  	<servlet-class>com.richard.servlet.HelloServlet</servlet-class>
+  	<servlet-class>com.apollo.servlet.HelloServlet</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>hello</servlet-name>
